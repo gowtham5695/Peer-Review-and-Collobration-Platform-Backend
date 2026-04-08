@@ -2,7 +2,7 @@
 
 A full-stack web application that enables students to submit academic work, perform peer reviews, collaborate in teams, and receive feedback — all managed by an admin.
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Backend
 - Java 17+
@@ -18,7 +18,7 @@ A full-stack web application that enables students to submit academic work, perf
 - Vite 8
 - CSS3
 
-## 📋 Features
+##  Features
 
 ### Admin
 - Create assignments with questions and deadlines
@@ -36,4 +36,3 @@ A full-stack web application that enables students to submit academic work, perf
 - Join teams proposed by admin
 - Real time team chat
 
-## 🗂️ Project Structure
