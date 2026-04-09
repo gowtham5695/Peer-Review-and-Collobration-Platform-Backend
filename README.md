@@ -35,4 +35,9 @@ A full-stack web application that enables students to submit academic work, perf
 - View feedback received on own work
 - Join teams proposed by admin
 - Real time team chat
+- Easy to handle and understand
+  ### TEAM MEMBERS-
+Katuri Karthik (2400031898)
+Ramcharan gadde (2400030399)
+Gowtham nodagala (2400080181)
 
